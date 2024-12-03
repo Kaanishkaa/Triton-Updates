@@ -1,0 +1,19 @@
+{
+  "bin": "NRS",
+  "mapLayer": "NRS",
+  "sourceGroup": "NRS",
+  "projectPath": "NRS",
+  "includeSite": true,
+  "packageValidate": false,
+  "checkFiles": false,
+  "mintDOI": false,
+  "citationText": "NOAA OAR Pacific Marine Environmental Laboratory and Cooperative Institute for Marine Ecosystem and Resources Studies, National Marine Fisheries Service, NOS Office of National Marine Sanctuaries, and DOI NPS Natural Resource Stewardship and Science Directorate. (2023) Hybrid Millidecade Spectra at 1 Minute Resolution Recorded at the Ocean Noise Reference Station Network (NRS). NOAA National Centers for Environmental Information. https://doi.org/10.25921/tr4q-xa94. [access date]",
+  "doi": "https://doi.org/10.25921/tr4q-xa94",
+  "publish": false,
+  "track": false,
+  "cloudUpload": true,
+  "flac": false,
+  "binInterval": 240,
+  "version": 3,
+  "acknowledgement": "These products support the Passive Acoustic Monitoring National Cyberinfrastructure (SoundCoop) project funded by the NOAA Integrated Ocean Observatory System, Bureau of Ocean Energy Management, U.S. Navy Living Marine Resources, and Office of Naval Research."
+}
