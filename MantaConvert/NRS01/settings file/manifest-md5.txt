@@ -1,0 +1,2 @@
+808a4bee45cceb6a1c5aa960d297c399  /content/drive/My Drive/MantaConvert/NRS01/NRS01B/Output/NRS01_2022_H5R6.1.5000_20200916_DAILY_MILLIDEC_MinRes_v3.nc
+8f884c510d033cb2c63de8bc82fbeb4e  /content/drive/My Drive/MantaConvert/NRS01/NRS01B/Output/NRS01_2022_H5R6.1.5000_20200917_DAILY_MILLIDEC_MinRes_v3.nc
